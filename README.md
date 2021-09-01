@@ -15,7 +15,7 @@ Requirement
 
 - ### fetch pokemon's data จาก `https://pokeapi.co/api/v2`
 - #### ดึงข้อมูลของ pokemon แต่ละตัวผ่าน api ex. GET-> https://pokeapi.co/api/v2/pokemon/1
-- #### ดึงข้อมูลของ pokemon id ที่ 1-104 แล้วนำมาแสดงในหน้ารวม
+- #### ดึงข้อมูลของ pokemon มาประมาณ 20 pokemon แล้วนำมาแสดงในหน้ารวม
 - #### ให้แสดง ชื่อ,รูป ของ pokemon เท่านั้น และแสดง แถวละ 6 ตัว ดังตัวอย่าง
   ![pokemon 3](./images/fetch_1.png)
 - #### สามารถแสดงแบบ Responsive ได้ด้วย
