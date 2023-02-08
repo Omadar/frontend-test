@@ -28,4 +28,3 @@ Requirement
 
 ** หากมีปัญหาหรือข้อสงสงสัยให้ติดต่อกลับโดยด่วน ผ่านช่องทางดังต่อไปนี้
 - sc.sivakorn@gmail.com (จัมโบ้)
-- anchalee.tav@gmail.com (ตวง)
