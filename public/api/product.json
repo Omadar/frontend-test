@@ -1,0 +1,157 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tuck End Box",
+      "imageUrl": "https://cdn.digiboxs.com/dev/00608a53-f019-42f6-ad30-0244a95852c0Folding Carton (Straight Tuck End) (2).png",
+      "createdDate": "2024-04-24T04:32:05.302Z",
+      "modifiedDate": "2024-04-24T04:32:05.302Z",
+      "models": [
+        {
+          "id": 2,
+          "name": "Reverse Tuck End",
+          "imageUrl": "https://cdn.digiboxs.com/dev/6cb2ec9f-a6b8-41bf-8b70-3483486b221dFolding Carton (Reverse Tuck End).png",
+          "modelCode": "HPM-PK01-001A0",
+          "productId": 1,
+          "createdDate": "2024-04-24T04:43:47.532Z",
+          "modifiedDate": "2024-04-24T04:43:47.532Z"
+        },
+        {
+          "id": 3,
+          "name": "Reverse Tuck End 2",
+          "imageUrl": "https://cdn.digiboxs.com/dev/cdbdba3d-87c1-4e79-8a85-145b786e8dacFolding Carton (Reverse Tuck End).png",
+          "modelCode": "HPM-PK01-001B0",
+          "productId": 1,
+          "createdDate": "2024-04-24T04:45:21.068Z",
+          "modifiedDate": "2024-04-24T04:45:21.068Z"
+        },
+        {
+          "id": 4,
+          "name": "Straight Tuck End ",
+          "imageUrl": "https://cdn.digiboxs.com/dev/c27960d3-6e97-4e5e-9a94-3b5af198f305Folding Carton (Reverse Tuck End).png",
+          "modelCode": "HPM-PK01-001C0",
+          "productId": 1,
+          "createdDate": "2024-04-24T04:46:16.372Z",
+          "modifiedDate": "2024-04-24T04:46:16.372Z"
+        },
+        {
+          "id": 26,
+          "name": "Without Flaps///////",
+          "imageUrl": "https://cdn.digiboxs.com/dev/e54a2a0e-c701-44a7-8c9c-f598080e31b1Without Flaps.jpg",
+          "modelCode": "MB-00001",
+          "productId": 1,
+          "createdDate": "2024-05-28T05:36:14.705Z",
+          "modifiedDate": "2024-05-28T05:36:14.705Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Shopping Bags",
+      "imageUrl": "https://cdn.digiboxs.com/dev/28a00355-f0b8-4e97-ad08-4d59b0aa4282Paper Bag.png",
+      "createdDate": "2024-04-24T04:35:38.639Z",
+      "modifiedDate": "2024-04-24T04:35:38.639Z",
+      "models": [
+        {
+          "id": 5,
+          "name": "Rope Handle Bags ",
+          "imageUrl": "https://cdn.digiboxs.com/dev/f008438e-bad9-421d-8315-403a97cfa8d2Shopping Bags Type A.jpg",
+          "modelCode": "HPM-PK02-001A0",
+          "productId": 2,
+          "createdDate": "2024-04-24T06:51:49.676Z",
+          "modifiedDate": "2024-04-24T06:51:49.676Z"
+        },
+        {
+          "id": 6,
+          "name": "Paper Bags Without Handle ",
+          "imageUrl": "https://cdn.digiboxs.com/dev/e7fc9da5-d665-4b5b-b5f9-97154c1e5b80Shopping Bags Type B.jpg",
+          "modelCode": "HPM-PK02-001A0",
+          "productId": 2,
+          "createdDate": "2024-04-24T06:54:08.805Z",
+          "modifiedDate": "2024-04-24T06:54:08.805Z"
+        },
+        {
+          "id": 7,
+          "name": "Ribbon Handle Bags",
+          "imageUrl": "https://cdn.digiboxs.com/dev/7a16564d-ac61-4a04-ab36-eeefdc5ce3b9Shopping Bags Type C.jpg",
+          "modelCode": "HPM-PK02-001C0",
+          "productId": 2,
+          "createdDate": "2024-04-24T06:55:37.211Z",
+          "modifiedDate": "2024-04-24T06:55:37.211Z"
+        },
+        {
+          "id": 8,
+          "name": "Die Cut Handle Bags",
+          "imageUrl": "https://cdn.digiboxs.com/dev/ffab9011-1a47-4b78-a366-a693dbdb791cShopping Bags Type D.jpg",
+          "modelCode": "HPM-PK02-001D0",
+          "productId": 2,
+          "createdDate": "2024-04-24T06:56:32.209Z",
+          "modifiedDate": "2024-04-24T06:56:32.209Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sticker",
+      "imageUrl": "https://cdn.digiboxs.com/dev/224c209c-2701-4140-9eb0-836533dafa72Sticker.png",
+      "createdDate": "2024-04-24T04:36:46.238Z",
+      "modifiedDate": "2024-04-24T04:36:46.238Z",
+      "models": [
+        {
+          "id": 9,
+          "name": "Circle Stickers",
+          "imageUrl": "https://cdn.digiboxs.com/dev/1b2d8119-4c69-41ea-a8d1-581a9f4ead70Sticker Circle Shape.jpg",
+          "modelCode": "HPM-PK04-001A0",
+          "productId": 3,
+          "createdDate": "2024-04-24T07:02:01.416Z",
+          "modifiedDate": "2024-04-24T07:02:01.416Z"
+        },
+        {
+          "id": 10,
+          "name": "Square Stickers",
+          "imageUrl": "https://cdn.digiboxs.com/dev/be55d73b-e67e-4311-90d7-81e6d5dab444Sticker Square Shape.jpg",
+          "modelCode": "HPM-PK04-002A0",
+          "productId": 3,
+          "createdDate": "2024-04-24T07:02:42.923Z",
+          "modifiedDate": "2024-04-24T07:02:42.923Z"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Mailer Box",
+      "imageUrl": "https://cdn.digiboxs.com/dev/36a69d34-5df3-46c4-8c93-eae8c2373081Mailer_Box.png",
+      "createdDate": "2024-05-28T05:18:04.030Z",
+      "modifiedDate": "2024-05-28T05:18:04.030Z",
+      "models": [
+        {
+          "id": 25,
+          "name": "Mailer Box 01",
+          "imageUrl": "https://cdn.digiboxs.com/dev/f92997da-9849-4516-852d-47f0d78dd5aaMailer_Box.jpg",
+          "modelCode": "MB-00001",
+          "productId": 43,
+          "createdDate": "2024-05-28T05:21:21.635Z",
+          "modifiedDate": "2024-05-28T05:21:21.635Z"
+        },
+        {
+          "id": 27,
+          "name": "Without Dust Flaps",
+          "imageUrl": "https://cdn.digiboxs.com/dev/5a004c47-1715-4a3e-922f-e80fe18fbb51Without Dust Flaps.jpg",
+          "modelCode": "MB-00001",
+          "productId": 43,
+          "createdDate": "2024-05-28T06:38:37.991Z",
+          "modifiedDate": "2024-05-28T06:38:37.991Z"
+        },
+        {
+          "id": 28,
+          "name": "With Adhesive",
+          "imageUrl": "https://cdn.digiboxs.com/dev/6b0d1e8f-2ce5-4c37-94d7-be58081ee7b8With Adhesive.jpg",
+          "modelCode": "MB-00001",
+          "productId": 43,
+          "createdDate": "2024-05-28T08:19:12.038Z",
+          "modifiedDate": "2024-05-28T08:19:12.038Z"
+        }
+      ]
+    }
+  ]
+}

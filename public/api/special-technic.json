@@ -1,0 +1,68 @@
+{
+    "specialTechnic": [
+        {
+            "id": 1,
+            "name": "Embossing",
+            "price": 2000.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/ba8ee5a1-41bc-482d-a095-7d499577e7abEmbossing.png",
+            "createdDate": "2024-04-24T07:26:54.608Z",
+            "modifiedDate": "2024-04-24T07:26:54.608Z"
+        },
+        {
+            "id": 2,
+            "name": "Debossing",
+            "price": 2000.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/b4857cf5-61c9-4a54-846e-85646ebf622cDebossing.png",
+            "createdDate": "2024-04-24T07:27:26.722Z",
+            "modifiedDate": "2024-04-24T07:27:26.722Z"
+        },
+        {
+            "id": 3,
+            "name": "Spot UV",
+            "price": 2000.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/aef78125-545a-49f7-88f0-fc0dd2278814Spot UV.png",
+            "createdDate": "2024-04-24T07:27:55.811Z",
+            "modifiedDate": "2024-04-24T07:27:55.811Z"
+        },
+        {
+            "id": 7,
+            "name": "Foil Stamping Bronze",
+            "price": 2000.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/ddea6731-2410-4eda-a25f-223414088921Foil Stamping Bronze.png",
+            "createdDate": "2024-04-24T07:29:51.301Z",
+            "modifiedDate": "2024-04-24T07:29:51.301Z"
+        },
+        {
+            "id": 6,
+            "name": "Foil Stamping Silver",
+            "price": 2000.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/06a9cd32-c84a-4dd4-acb2-003de031192fFoil Stamping Silver.png",
+            "createdDate": "2024-04-24T07:29:14.144Z",
+            "modifiedDate": "2024-04-24T07:29:14.144Z"
+        },
+        {
+            "id": 5,
+            "name": "Foil Stamping Gold",
+            "price": 2000.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/25392e51-aad4-4c0e-89db-958974a224ccFoil Stamping Gold.png",
+            "createdDate": "2024-04-24T07:28:47.724Z",
+            "modifiedDate": "2024-04-24T07:28:47.724Z"
+        },
+        {
+            "id": 4,
+            "name": "Foil Stamping Rose Gold",
+            "price": 2000.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/19d08459-855c-40b4-96b8-3fec22c84421Foil Stamping Rose Gold .png",
+            "createdDate": "2024-04-24T07:28:22.024Z",
+            "modifiedDate": "2024-04-24T07:28:22.024Z"
+        },
+        {
+            "id": 13,
+            "name": "ปั๊มจม ",
+            "price": 440.0,
+            "imageUrl": "https://cdn.digiboxs.com/dev/0b22cc0e-264a-4a44-9f3b-616bb83fbb62Rectangle 10551.png",
+            "createdDate": "2024-05-28T06:59:05.439Z",
+            "modifiedDate": "2024-05-28T06:59:05.439Z"
+        }
+    ]
+}

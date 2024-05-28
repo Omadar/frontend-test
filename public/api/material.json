@@ -1,0 +1,178 @@
+{
+  "materials": [
+    {
+      "id": 3,
+      "name": "อาร์ตการ์ด 1 หน้า",
+      "gram": 300,
+      "imageUrl": "https://cdn.digiboxs.com/dev/4a068da4-1624-45cf-bbbc-f7a2efda4663Artcard.png",
+      "createdDate": "2024-04-24T07:05:11.436Z",
+      "modifiedDate": "2024-04-24T07:05:11.436Z",
+      "materialPrice": [
+        {
+          "id": 1,
+          "materialId": 3,
+          "amount": 500,
+          "price": 10.0,
+          "createdDate": "2024-04-24T07:05:11.462Z",
+          "modifiedDate": "2024-04-24T07:05:11.462Z"
+        },
+        {
+          "id": 2,
+          "materialId": 3,
+          "amount": 1000,
+          "price": 9.0,
+          "createdDate": "2024-04-24T07:05:11.462Z",
+          "modifiedDate": "2024-04-24T07:05:11.462Z"
+        },
+        {
+          "id": 3,
+          "materialId": 3,
+          "amount": 1500,
+          "price": 9.0,
+          "createdDate": "2024-04-24T07:05:11.462Z",
+          "modifiedDate": "2024-04-24T07:05:11.462Z"
+        },
+        {
+          "id": 4,
+          "materialId": 3,
+          "amount": 2000,
+          "price": 7.0,
+          "createdDate": "2024-04-24T07:05:11.462Z",
+          "modifiedDate": "2024-04-24T07:05:11.462Z"
+        },
+        {
+          "id": 5,
+          "materialId": 3,
+          "amount": 2500,
+          "price": 6.0,
+          "createdDate": "2024-04-24T07:05:11.462Z",
+          "modifiedDate": "2024-04-24T07:05:11.462Z"
+        },
+        {
+          "id": 6,
+          "materialId": 3,
+          "amount": 3000,
+          "price": 5.0,
+          "createdDate": "2024-04-24T07:05:11.462Z",
+          "modifiedDate": "2024-04-24T07:05:11.462Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "อาร์ตการ์ด 1 หน้า",
+      "gram": 350,
+      "imageUrl": "https://cdn.digiboxs.com/dev/6d96bc72-4415-4604-8fa2-29d94aa9f9c6Artcard.png",
+      "createdDate": "2024-04-24T07:05:32.063Z",
+      "modifiedDate": "2024-04-24T07:05:32.063Z",
+      "materialPrice": [
+        {
+          "id": 7,
+          "materialId": 4,
+          "amount": 500,
+          "price": 10.0,
+          "createdDate": "2024-04-24T07:05:32.073Z",
+          "modifiedDate": "2024-04-24T07:05:32.073Z"
+        },
+        {
+          "id": 8,
+          "materialId": 4,
+          "amount": 1000,
+          "price": 9.0,
+          "createdDate": "2024-04-24T07:05:32.073Z",
+          "modifiedDate": "2024-04-24T07:05:32.073Z"
+        },
+        {
+          "id": 9,
+          "materialId": 4,
+          "amount": 1500,
+          "price": 9.0,
+          "createdDate": "2024-04-24T07:05:32.073Z",
+          "modifiedDate": "2024-04-24T07:05:32.073Z"
+        },
+        {
+          "id": 10,
+          "materialId": 4,
+          "amount": 2000,
+          "price": 7.0,
+          "createdDate": "2024-04-24T07:05:32.073Z",
+          "modifiedDate": "2024-04-24T07:05:32.073Z"
+        },
+        {
+          "id": 11,
+          "materialId": 4,
+          "amount": 2500,
+          "price": 6.0,
+          "createdDate": "2024-04-24T07:05:32.073Z",
+          "modifiedDate": "2024-04-24T07:05:32.073Z"
+        },
+        {
+          "id": 12,
+          "materialId": 4,
+          "amount": 3000,
+          "price": 5.0,
+          "createdDate": "2024-04-24T07:05:32.073Z",
+          "modifiedDate": "2024-04-24T07:05:32.073Z"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "กระดาษคราฟท์ S",
+      "gram": 50,
+      "imageUrl": "https://cdn.digiboxs.com/dev/503cf2cc-e07e-4cd2-9cd4-343cbb808360image 184.png",
+      "createdDate": "2024-05-28T06:37:06.769Z",
+      "modifiedDate": "2024-05-28T06:37:06.769Z",
+      "materialPrice": [
+        {
+          "id": 49,
+          "materialId": 8,
+          "amount": 100,
+          "price": 100.0,
+          "createdDate": "2024-05-28T06:56:13.171Z",
+          "modifiedDate": "2024-05-28T06:56:13.171Z"
+        },
+        {
+          "id": 50,
+          "materialId": 8,
+          "amount": 200,
+          "price": 99.0,
+          "createdDate": "2024-05-28T06:56:13.171Z",
+          "modifiedDate": "2024-05-28T06:56:13.171Z"
+        },
+        {
+          "id": 51,
+          "materialId": 8,
+          "amount": 300,
+          "price": 98.0,
+          "createdDate": "2024-05-28T06:56:13.171Z",
+          "modifiedDate": "2024-05-28T06:56:13.171Z"
+        },
+        {
+          "id": 52,
+          "materialId": 8,
+          "amount": 400,
+          "price": 97.0,
+          "createdDate": "2024-05-28T06:56:13.171Z",
+          "modifiedDate": "2024-05-28T06:56:13.171Z"
+        },
+        {
+          "id": 53,
+          "materialId": 8,
+          "amount": 500,
+          "price": 96.0,
+          "createdDate": "2024-05-28T06:56:13.171Z",
+          "modifiedDate": "2024-05-28T06:56:13.171Z"
+        },
+        {
+          "id": 54,
+          "materialId": 8,
+          "amount": 1002,
+          "price": 95.0,
+          "createdDate": "2024-05-28T06:56:13.171Z",
+          "modifiedDate": "2024-05-28T06:56:13.171Z"
+        }
+      ]
+    }
+  ]
+}

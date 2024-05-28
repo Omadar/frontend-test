@@ -1,0 +1,36 @@
+{
+  "coatings": [
+    {
+      "id": 1,
+      "name": "ลามิเนตเงา",
+      "price": 2000.0,
+      "imageUrl": "https://cdn.digiboxs.com/dev/7b3a42d4-5101-458c-9680-5b98d122b903เงา.png",
+      "createdDate": "2024-04-24T07:23:20.691Z",
+      "modifiedDate": "2024-04-24T07:23:20.691Z"
+    },
+    {
+      "id": 2,
+      "name": "ลามิเนตด้าน",
+      "price": 2000.0,
+      "imageUrl": "https://cdn.digiboxs.com/dev/ef5bb7de-2b9c-4720-be54-2387e1bbb861ด้าน.png",
+      "createdDate": "2024-04-24T07:23:54.161Z",
+      "modifiedDate": "2024-04-24T07:23:54.161Z"
+    },
+    {
+      "id": 7,
+      "name": "ไม่เคลือบ",
+      "price": 1.0,
+      "imageUrl": "https://cdn.digiboxs.com/dev/4b3d3f53-b370-48fc-9c4f-1772178d8faaFrame.jpg",
+      "createdDate": "2024-05-28T06:57:22.256Z",
+      "modifiedDate": "2024-05-28T06:57:22.256Z"
+    },
+    {
+      "id": 8,
+      "name": "น้ำยาวานิช",
+      "price": 200.0,
+      "imageUrl": "https://cdn.digiboxs.com/dev/fdc0ac0c-4704-490b-a99e-19ad30e1cc12Frame (1).jpg",
+      "createdDate": "2024-05-28T06:58:24.516Z",
+      "modifiedDate": "2024-05-28T06:58:24.516Z"
+    }
+  ]
+}
