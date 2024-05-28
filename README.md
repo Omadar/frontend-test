@@ -32,4 +32,5 @@ Feature List
 
 *** หมายเหตุ ***
 - ใช้ css framework อะไรก็ได้
-- ต้อง clone repo จาก github ของทางบริษัท หรือไม่ก็ทำการ fork repo
+- ต้อง fork repo จาก github ของทางบริษัท
+- ส่งข้อสอบโดยการ pull request มาเท่านั้น
