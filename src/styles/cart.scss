@@ -1,0 +1,132 @@
+@import "./color.scss";
+
+.zone-yourCart {
+  min-height: 100vh;
+  padding-top: 6rem;
+  padding-bottom: 8rem;
+  background-color: $bg-secondary-color;
+  .container-fluid {
+    border-bottom: 1px solid #d9d9d9;
+    padding-bottom: 0.7rem;
+  }
+  .container {
+    display: grid;
+    align-items: center;
+    row-gap: 30px;
+  }
+  .header-page {
+    display: flex;
+    column-gap: 7px;
+    width: 100%;
+    b {
+      font-size: 16px;
+      margin: 0;
+    }
+  }
+}
+.zone-productDetail {
+  border: 1px solid #e8eaee;
+  border-radius: 10px;
+  .header-panel {
+    padding: 1rem;
+    border-bottom: 1px solid #e8eaee;
+    h4 {
+      font-size: 18px;
+      margin: 0;
+    }
+  }
+  .grp-productImg-detail {
+    display: flex;
+    padding: 1rem;
+    column-gap: 20px;
+    .detail {
+      display: grid;
+      align-items: center;
+      p {
+        margin: 0;
+        font-size: 14px;
+      }
+    }
+  }
+  .grp-productDetail {
+    // padding: 1rem;
+    border-top: 1px solid #e8eaee;
+    .open-productDetail {
+      text-align: center;
+      padding: 0.7rem;
+      cursor: pointer;
+    }
+    .box-label-value {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem;
+      border-bottom: 1px solid #e8eaee;
+      &:last-child {
+        border-bottom: none;
+      }
+      p {
+        text-align: right;
+      }
+    }
+  }
+}
+.zone-orderConfirmPanel {
+  background-color: #2c2c2c;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+  .grp-price {
+    color: $text-white-color;
+  }
+  .btn-cornfirm {
+    background-color: $btn-primary-color;
+    border-radius: 10px;
+    width: 140px;
+    height: 45px;
+    border: none !important;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &:active {
+      opacity: 0.9;
+    }
+    &:focus {
+      background-color: $btn-primary-color;
+    }
+  }
+}
+@media (max-width: 991.98px) {
+  .zone-orderConfirmPanel {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+    padding: 1rem;
+  }
+}
+@media (max-width: 575.98px) {
+  .zone-orderConfirmPanel {
+    .grp-price {
+      p {
+        font-size: 14px;
+        width: 200px;
+      }
+    }
+  }
+}
+@media (max-width: 375px) {
+  .zone-orderConfirmPanel {
+    .grp-price {
+      p {
+        font-size: 12px;
+        width: 150px;
+      }
+    }
+  }
+}
